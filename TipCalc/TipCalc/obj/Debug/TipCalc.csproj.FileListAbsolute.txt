@@ -1,0 +1,9 @@
+C:\Users\hotel\Documents\Visual Studio 2012\Projects\TipCalc\TipCalc\bin\Debug\TipCalc.exe.config
+C:\Users\hotel\Documents\Visual Studio 2012\Projects\TipCalc\TipCalc\bin\Debug\TipCalc.exe
+C:\Users\hotel\Documents\Visual Studio 2012\Projects\TipCalc\TipCalc\bin\Debug\TipCalc.pdb
+C:\Users\hotel\Documents\Visual Studio 2012\Projects\TipCalc\TipCalc\obj\Debug\TipCalc.MainForm.resources
+C:\Users\hotel\Documents\Visual Studio 2012\Projects\TipCalc\TipCalc\obj\Debug\TipCalc.Properties.Resources.resources
+C:\Users\hotel\Documents\Visual Studio 2012\Projects\TipCalc\TipCalc\obj\Debug\TipCalc.csproj.GenerateResource.Cache
+C:\Users\hotel\Documents\Visual Studio 2012\Projects\TipCalc\TipCalc\obj\Debug\TipCalc.exe
+C:\Users\hotel\Documents\Visual Studio 2012\Projects\TipCalc\TipCalc\obj\Debug\TipCalc.pdb
+C:\Users\hotel\Documents\Visual Studio 2012\Projects\TipCalc\TipCalc\obj\Debug\TipCalc.csprojResolveAssemblyReference.cache
